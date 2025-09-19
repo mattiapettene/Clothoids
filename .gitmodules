@@ -7,7 +7,8 @@
 [submodule "submodules/GenericContainer"]
 	path = submodules/GenericContainer
 	url = https://github.com/ebertolazzi/GenericContainer.git
-	branch = main
 [submodule "submodules/UtilsLite"]
 	path = submodules/UtilsLite
 	url = https://github.com/mattiapettene/UtilsLite.git
+	branch = main
+
