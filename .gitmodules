@@ -9,4 +9,4 @@
 	url = https://github.com/ebertolazzi/GenericContainer.git
 [submodule "submodules/UtilsLite"]
 	path = submodules/UtilsLite
-	url = https://github.com/ebertolazzi/UtilsLite.git
+	url = https://github.com/mattiapettene/UtilsLite.git
